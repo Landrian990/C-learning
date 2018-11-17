@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main()
+{
+  std::cout << "Solidum petit in profoundis!\n";
+  return 0;
+}
